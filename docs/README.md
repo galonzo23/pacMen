@@ -1,7 +1,7 @@
 # PacMen
 JS "factory" for making pacmen. When button "Add PacMan" is pressed, a new pacman image is added to the "game" div. It is then added to the array of pacmen, which keeps track of the position and velocity of each pacman. Each pacman bounces off any wall it hits. 
 
-<img src="PacMan1.png">
+<img src="images/PacMan1.png">
 ## How to Run: 
 Open index.html in your browser (the easiest way is to drag the file into a blank browser window).
 
